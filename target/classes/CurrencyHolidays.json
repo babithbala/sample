@@ -1,0 +1,76 @@
+{
+  "title": "currency_holidays",
+  "description": "currency_holidays_calendar_description",
+  "holidays": {
+    "EUR": [
+      {
+        "year": "2016",
+        "validDates": [
+          {
+            "title": "New Year's Day",
+            "date": "01/01/2016"
+          },
+          {
+            "title": "Good Friday",
+            "date": "25/03/2016"
+          },
+          {
+            "title": "Easter Monday",
+            "date": "28/03/2016"
+          },
+          {
+            "title": "Christmas Day",
+            "date": "26/12/2016"
+          }
+        ]
+      }
+    ],
+    "USD": [
+      {
+        "year": "2016",
+        "validDates": [
+          {
+            "title": "New Year's Day",
+            "date": "01/01/2016"
+          },
+          {
+            "title": "Martin Luther King Day",
+            "date": "18/01/2016"
+          },
+          {
+            "title": "Presidents Day",
+            "date": "15/02/2016"
+          },
+          {
+            "title": "Memorial Day",
+            "date": "30/05/2016"
+          },
+          {
+            "title": "Independence Day",
+            "date": "04/07/2016"
+          },
+          {
+            "title": "Labour Day",
+            "date": "05/09/2016"
+          },
+          {
+            "title": "Columbus Day",
+            "date": "10/10/2016"
+          },
+          {
+            "title": "Veteran's Day",
+            "date": "11/11/2016"
+          },
+          {
+            "title": "Thanksgiving Day",
+            "date": "24/12/2016"
+          },
+          {
+            "title": "Christmas Day",
+            "date": "26/12/2016"
+          }
+        ]
+      }
+    ]
+  }
+}
